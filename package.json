@@ -1,0 +1,16 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto Bytebank para treinar programação orientada a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Analu Bandeira",
+  "license": "ISC",
+  "type": "module"
+}
